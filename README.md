@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/c718a9b6-4f38-4742-a6cc-cdfa4cdcac4d
+
 https://github.com/user-attachments/assets/eefb9423-dbdd-4b2e-9136-3fa3a8be62e9
  🚀 Flutter Simple Version Check with GetX
 
@@ -50,7 +52,10 @@ Ensure your API returns a response in this format. If you're using a different r
 This project is a simple version checking example and is open for improvement. More comprehensive testing and error handling should be added for production use.
 
 
-https://github.com/user-attachments/assets/025a7088-b0fe-480f-a878-5024e13e2a8c
+
+Uploading video.mov…
+
+
 
 
 
