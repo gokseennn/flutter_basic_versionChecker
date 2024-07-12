@@ -1,8 +1,6 @@
- 🚀 Flutter Simple Version Check with GetX
 
-<p align="center">
-  <img src="https://your-image-url-here.png" alt="Project Logo" width="200"/>
-</p>
+https://github.com/user-attachments/assets/eefb9423-dbdd-4b2e-9136-3fa3a8be62e9
+ 🚀 Flutter Simple Version Check with GetX
 
 <p align="center">
   <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"></a>
@@ -13,6 +11,7 @@
 A simple and efficient version checking mechanism for Flutter applications using GetX Service.
 
 ## ✨ Features
+
 
 - 🔄 Version checking service using GetX Service
 - ⏱️ Periodic automatic version checks
@@ -46,7 +45,12 @@ json{
   "appVersion": "1.1.1"
 }
 Ensure your API returns a response in this format. If you're using a different response format, you'll need to update the ApiService class accordingly.
+
 ⚠️ Important Note
 This project is a simple version checking example and is open for improvement. More comprehensive testing and error handling should be added for production use.
+
+
+https://github.com/user-attachments/assets/025a7088-b0fe-480f-a878-5024e13e2a8c
+
 
 
